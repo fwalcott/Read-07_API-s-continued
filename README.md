@@ -2,14 +2,14 @@
 
 ## What factors did Google look into how groups work: 
 
-***1.Gender Balances 
-***2. Being Friends Outside Work***
-***3. Being Complete Strangers ***
-***4. Personality Types ***
-***5. Interpersonal and Technical Skills***
-***6. Age*** 
-***7. Cultural Background ***
-***8. Being Hierarchical Versus Being Informal***
+1.Gender Balances 
+2. Being Friends Outside Work
+3. Being Complete Strangers 
+4. Personality Types
+5. Interpersonal and Technical Skills
+6. Age 
+7. Cultural Background 
+8. Being Hierarchical Versus Being Informal
 
 ## They Came Up With Three Conclusions:
 
