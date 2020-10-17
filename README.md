@@ -2,7 +2,7 @@
 
 ## What factors did Google look into how groups work: 
 
-1.Gender Balances 
+1. Gender Balances 
 2. Being Friends Outside Work
 3. Being Complete Strangers 
 4. Personality Types
